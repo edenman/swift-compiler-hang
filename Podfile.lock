@@ -1,0 +1,12 @@
+PODS:
+  - UAObfuscatedString (0.3.2)
+
+DEPENDENCIES:
+  - UAObfuscatedString (= 0.3.2)
+
+SPEC CHECKSUMS:
+  UAObfuscatedString: 128d0df4876ad570ef07c7851e27e094c6e080a9
+
+PODFILE CHECKSUM: 2f6a498df9d67ec8625a2f0ab13f1c9dc9b5f012
+
+COCOAPODS: 1.2.0

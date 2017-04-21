@@ -16,6 +16,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 	func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
 		// Override point for customization after application launch.
+		let str = NSMutableString().a().a()._9().f()._4().e().x().e()._2()._2().a()._5()._4()._9().e().a()._8()._9()._7().a().x().x().e().a()._5().d()._7()._1().a()._6()._1()._6().colon().d().f().x().x().f().e()._7().x().a()._1().x()._7()._4()._5()._9().a()._9().x()._5().f().e()._2().d()._1().a().f()._6().e().d().f().a().a().at().s().e().n().t().r().y()._7()._1()._4()._6()._4() as String
+		NSLog(str)
 		return true
 	}
 
